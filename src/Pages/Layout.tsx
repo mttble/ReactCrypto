@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react';
-import TopNavMenu from './TopNavMenu';
-import Footer from './Footer';
+import TopNavMenu from '../Components/TopNavMenu';
+import Footer from '../Components/Footer';
 
 interface LayoutProps {
   children: ReactNode;

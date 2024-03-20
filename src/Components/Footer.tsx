@@ -10,7 +10,6 @@ function Footer() {
     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
       <h3>Follow Us</h3>
       <div style={{ paddingTop: '10px' }}>
-        {/* Replace these with actual icons or images */}
         <span style={{ color: 'white', cursor: 'pointer', marginRight: '10px' }}>GitHub</span>
         <span style={{ color: 'white', cursor: 'pointer', marginRight: '10px' }}>Instagram</span>
         <span style={{ color: 'white', cursor: 'pointer', marginRight: '10px' }}>Facebook</span>
